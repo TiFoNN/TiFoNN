@@ -1,6 +1,6 @@
 <div align="center">
 
-## <img src="https://avatars.githubusercontent.com/u/131183878" width="100%"/>
+## <img src="https://avatars.githubusercontent.com/u/131183878" width="30%"/>
 
 </div>
 <!--
