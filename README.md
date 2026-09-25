@@ -1,5 +1,8 @@
-## Hi there 👋
+<div align="center">
 
+## <img src="https://avatars.githubusercontent.com/u/131183878" width="100%"/>
+
+</div>
 <!--
 **TiFoNN/TiFoNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
