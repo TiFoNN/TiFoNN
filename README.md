@@ -20,33 +20,6 @@
 ---
 
 <!-- ========================================== -->
-<!-- 🧩 BENTO GRID: BIO & RACHA EN PARALELO     -->
-<!-- ========================================== -->
-<table border="0" width="100%">
-  <tr>
-    <!-- COLUMNA IZQUIERDA: SOBRE MÍ (60%) -->
-    <td width="60%" valign="top">
-      <h3>👨‍💻 Sobre Mí</h3>
-      <p>
-        Estudiante de <b>Sistemas Microinformáticos y Redes (SMR)</b> con vocación por el desarrollo web y la administración de infraestructuras. Me apasiona unir la arquitectura de sistemas con interfaces de usuario intuitivas y accesibles.
-      </p>
-      <ul>
-        <li>🔭 <b>En desarrollo:</b> Proyectos web multimedia accesibles e interfaces interactivas.</li>
-        <li>🌱 <b>Aprendiendo:</b> Arquitectura de redes empresariales, GNU/Linux y automatización con scripts.</li>
-        <li>💬 <b>Intereses:</b> Redes (Cisco), Virtualización, Shell scripting y estándares web modernos.</li>
-      </ul>
-    </td>
-
-    <!-- COLUMNA DERECHA: RACHA / STREAK STATS (40%) -->
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&stroke=00000000&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ========================================== -->
 <!-- 🛠️ STACK TECNOLÓGICO CLASIFICADO            -->
 <!-- ========================================== -->
 ### 🛠️ Stack Tecnológico & Habilidades
@@ -56,34 +29,6 @@
 | **Desarrollo Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 | **Sistemas & Redes** | ![Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) |
 | **Herramientas & Entorno** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-
----
-
-<!-- ========================================== -->
-<!-- 🚀 PROYECTOS DESTACADOS                     -->
-<!-- ========================================== -->
-### 🚀 Proyectos Destacados
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎬 Reproductor Multimedia Accesible</h4>
-      <p>Reproductor de vídeo adaptado para estándares de accesibilidad con pistas de subtítulos sincronizadas en español e inglés (WebVTT).</p>
-      <p><b>Stack:</b> HTML5 Video API, WebVTT, Accesibilidad Web</p>
-      <p>
-        <a href="https://github.com/TiFoNN">📦 Ver Proyecto en GitHub →</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Formularios & Experiencia Web</h4>
-      <p>Diseño y maquetación de formularios accesibles con validación estricta, semántica HTML5 y estilos optimizados para experiencia de usuario.</p>
-      <p><b>Stack:</b> HTML5 Semántico, CSS3, Responsive Design</p>
-      <p>
-        <a href="https://github.com/TiFoNN">📦 Ver Proyecto en GitHub →</a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -100,6 +45,11 @@
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=cdd6f4" width="100%" alt="Lenguajes Más Usados" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&stroke=00000000&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
