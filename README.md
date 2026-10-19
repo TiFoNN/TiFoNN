@@ -79,18 +79,18 @@
   <table border="0">
     <tr>
       <td align="center" width="130" valign="middle">
-        <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=150&h=150&fit=crop" width="110" height="110" style="border-radius: 12px;" alt="Song Cover" />
+        <img src="./assets/mcr_black_parade_logo.jpg" width="110" height="110" style="border-radius: 12px;" alt="My Chemical Romance - The Black Parade" />
       </td>
       <td valign="middle" align="left">
-        <b>🎵 Track:</b> <i>Song Title</i> <br/>
-        <b>🎸 Artist / Band:</b> <i>Band Name</i> <br/>
-        <b>💿 Album:</b> <i>Album Title</i> <br/><br/>
+        <b>🎵 Track:</b> <i>Welcome to the Black Parade</i> <br/>
+        <b>🎸 Artist / Band:</b> <i>My Chemical Romance</i> <br/>
+        <b>💿 Album:</b> <i>The Black Parade</i> <br/><br/>
         <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/equalizer.gif" width="30" height="16" alt="Equalizer" />
         &nbsp;
-        <a href="https://open.spotify.com" target="_blank">
+        <a href="https://open.spotify.com/search/Welcome%20to%20the%20Black%20Parade%20My%20Chemical%20Romance" target="_blank">
           <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
         </a>
-        <a href="https://music.youtube.com" target="_blank">
+        <a href="https://music.youtube.com/search?q=Welcome+to+the+Black+Parade+My+Chemical+Romance" target="_blank">
           <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtubemusic&logoColor=white" alt="YouTube Music" />
         </a>
       </td>
