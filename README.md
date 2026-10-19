@@ -37,6 +37,21 @@
 ---
 
 <!-- ========================================== -->
+<!-- 🌐 LANGUAGES                               -->
+<!-- ========================================== -->
+### Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-00F0FF?style=for-the-badge&labelColor=0d1117" alt="Spanish - Native" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/English-Advanced-7928CA?style=for-the-badge&labelColor=0d1117" alt="English - Advanced" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Italian-Beginner%20(Still%20Learning)-FF0080?style=for-the-badge&labelColor=0d1117" alt="Italian - Beginner (Still Learning)" />
+</div>
+
+---
+
+<!-- ========================================== -->
 <!-- 📊 GITHUB STATS & ACTIVITY                 -->
 <!-- ========================================== -->
 ### 📊 GitHub Stats & Activity
