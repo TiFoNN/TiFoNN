@@ -3,16 +3,16 @@
 <!-- ========================================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=¡Hola!%20Soy%20Aarón%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner Superior" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=¡Hola!%20Soy%20Tifon%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner Superior" />
 
   <a href="https://github.com/TiFoNN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=580&lines=Estudiante+de+Sistemas+Microinform%C3%A1ticos+y+Redes;Apasionado+del+Desarrollo+Web+Frontend;Linux+%26+Redes+Entusiasta;Construyendo+proyectos+con+c%C3%B3digo+limpio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=580&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Multiplataforma+(DAM);Apasionado+del+Desarrollo+de+Software;Desarrollo+Web+%26+Multiplataforma;Construyendo+proyectos+con+c%C3%B3digo+limpio" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Estudiando%20%26%20Creando-00F0FF?style=for-the-badge&labelColor=0d1117" alt="Status" />
     <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Espa%C3%B1a-7928CA?style=for-the-badge&labelColor=0d1117" alt="Ubicación" />
-    <img src="https://img.shields.io/badge/Enfoque-Web%20%26%20Sysadmin-FF0080?style=for-the-badge&labelColor=0d1117" alt="Enfoque" />
+    <img src="https://img.shields.io/badge/Enfoque-DAM%20%26%20Software-FF0080?style=for-the-badge&labelColor=0d1117" alt="Enfoque" />
   </p>
 
 </div>
