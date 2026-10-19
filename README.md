@@ -3,7 +3,11 @@
 <!-- ========================================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hey!%20I'm%20Tifon%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hey!%20I'm%20Tifon&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <p align="center">
+    <img src="./assets/triforce.svg" width="48" height="42" alt="The Legend of Zelda Triforce" />
+  </p>
 
   <a href="https://github.com/TiFoNN">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=500&lines=DAM+Student;Software+Developer;Web+%26+Multiplatform+Apps;Building+clean+%26+creative+code" alt="Typing SVG" />
@@ -73,25 +77,27 @@
 <!-- ========================================== -->
 <div align="center">
 
-  ### 🎧 On Repeat / Favorite Track
+  ### On Repeat / Favorite Track
 
-  <!-- 💡 PUEDES EDITAR LA CANCIÓN AQUÍ: Cambia la URL de la imagen, el título, la banda/artista y el álbum -->
   <table border="0">
     <tr>
-      <td align="center" width="130" valign="middle">
-        <img src="./assets/mcr_black_parade_logo.jpg" width="110" height="110" style="border-radius: 12px;" alt="My Chemical Romance - The Black Parade" />
+      <td align="center" width="180" valign="middle">
+        <img src="./assets/mcr_black_parade_logo.jpg" width="170" height="170" style="border-radius: 14px;" alt="My Chemical Romance - The Black Parade" />
       </td>
       <td valign="middle" align="left">
-        <b>🎵 Track:</b> <i>Welcome to the Black Parade</i> <br/>
-        <b>🎸 Artist / Band:</b> <i>My Chemical Romance</i> <br/>
-        <b>💿 Album:</b> <i>The Black Parade</i> <br/><br/>
-        <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/equalizer.gif" width="30" height="16" alt="Equalizer" />
-        &nbsp;
+        <h2>Welcome to the Black Parade</h2>
+        <p>
+          <b>Artist / Band:</b> My Chemical Romance <br/>
+          <b>Album:</b> The Black Parade
+        </p>
+        <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/equalizer.gif" width="35" height="18" alt="Equalizer" />
+        &nbsp;&nbsp;
         <a href="https://open.spotify.com/search/Welcome%20to%20the%20Black%20Parade%20My%20Chemical%20Romance" target="_blank">
-          <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+          <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="26" alt="Spotify" />
         </a>
+        &nbsp;
         <a href="https://music.youtube.com/search?q=Welcome+to+the+Black+Parade+My+Chemical+Romance" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtubemusic&logoColor=white" alt="YouTube Music" />
+          <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" height="26" alt="YouTube Music" />
         </a>
       </td>
     </tr>
