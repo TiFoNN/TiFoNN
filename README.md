@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF&v=2" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
