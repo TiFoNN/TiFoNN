@@ -63,12 +63,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=TiFoNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=7928CA&text_color=cdd6f4" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=cdd6f4" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=cdd6f4" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&stroke=00000000&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
