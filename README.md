@@ -147,21 +147,21 @@
   <table border="0">
     <tr>
       <td align="center" width="180" valign="middle">
-        <img src="./assets/memoria_linkin_park_album_cover_img.jpg" width="170" height="170" style="border-radius: 14px; border: 2px solid #E60012;" alt="Linkin Park - Meteora" />
+        <img src="./assets/i_brought_you_my_bullets_album_cover_img.jpg" width="170" height="170" style="border-radius: 14px; border: 2px solid #E60012;" alt="My Chemical Romance - I brought you my bullets, you brought me your love" />
       </td>
       <td valign="middle" align="left">
-        <h2>Faint</h2>
+        <h2>Cubicles</h2>
         <p>
-          <b>Artist / Band:</b> Linkin Park <br/>
-          <b>Album:</b> Meteora
+          <b>Artist / Band:</b> My Chemical Romance <br/>
+          <b>Album:</b> I brought you my bullets, you brought me your love
         </p>
         <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/equalizer.gif" width="35" height="18" alt="Equalizer" />
         &nbsp;&nbsp;
-        <a href="https://open.spotify.com/search/Faint%20Linkin%20Park" target="_blank">
+        <a href="https://open.spotify.com/search/Cubicles%20My%20Chemical%20Romance" target="_blank">
           <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="26" alt="Spotify" />
         </a>
         &nbsp;
-        <a href="https://music.youtube.com/search?q=Faint%20Linkin%20Park" target="_blank">
+        <a href="https://music.youtube.com/search?q=Cubicles%20My%20Chemical%20Romance" target="_blank">
           <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" height="26" alt="YouTube Music" />
         </a>
       </td>
