@@ -42,7 +42,9 @@
       <h3>Interests</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Setup-Linux%20%26%20Windows-00FF66?style=for-the-badge&labelColor=000000" alt="Setup: Linux & Windows" /><br/><br/>
-        <img src="https://img.shields.io/badge/Gaming-Persona%20%26%20Zelda-E60012?style=for-the-badge&labelColor=000000" alt="Gaming: Persona & Zelda" /><br/><br/>
+        <a href="https://backloggd.com/u/Tifon/games/" target="_blank">
+          <img src="https://img.shields.io/badge/Gaming-Multiple%20Genres-E60012?style=for-the-badge&labelColor=000000" alt="Gaming: Multiple Genres" />
+        </a><br/><br/>
         <img src="https://img.shields.io/badge/Music-Rock%20%26%20Alternative-8B00FF?style=for-the-badge&labelColor=000000" alt="Music: Rock & Alternative" />
       </p>
     </td>
