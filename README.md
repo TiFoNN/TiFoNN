@@ -18,11 +18,11 @@
 ---
 
 <!-- ========================================== -->
-<!-- 🧩 STATUS & LANGUAGES TABLE                -->
+<!-- 🧩 STATUS, LANGUAGES & INTERESTS           -->
 <!-- ========================================== -->
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <h3>Status</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00FF66?style=for-the-badge&labelColor=000000" alt="Status" /><br/><br/>
@@ -30,12 +30,20 @@
         <img src="https://img.shields.io/badge/Focus-DAM%20%26%20Software%20Dev-8B00FF?style=for-the-badge&labelColor=000000" alt="Focus" />
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <h3>Languages</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Spanish-Native-00FF66?style=for-the-badge&labelColor=000000" alt="Spanish - Native" /><br/><br/>
         <img src="https://img.shields.io/badge/English-Advanced-8B00FF?style=for-the-badge&labelColor=000000" alt="English - Advanced" /><br/><br/>
         <img src="https://img.shields.io/badge/Italian-Beginner%20(Still%20Learning)-E60012?style=for-the-badge&labelColor=000000" alt="Italian - Beginner (Still Learning)" />
+      </p>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h3>Interests</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Setup-Linux%20%26%20Windows-00FF66?style=for-the-badge&labelColor=000000" alt="Setup: Linux & Windows" /><br/><br/>
+        <img src="https://img.shields.io/badge/Gaming-Persona%20%26%20Zelda-E60012?style=for-the-badge&labelColor=000000" alt="Gaming: Persona & Zelda" /><br/><br/>
+        <img src="https://img.shields.io/badge/Music-Rock%20%26%20Alternative-8B00FF?style=for-the-badge&labelColor=000000" alt="Music: Rock & Alternative" />
       </p>
     </td>
   </tr>
@@ -48,16 +56,45 @@
 <!-- ========================================== -->
 ### Tech Stack & Skills
 
-<div align="center">
-  <img src="./assets/futaba_sakura_p5s_op_img.jpg" width="460" style="border-radius: 12px; border: 2px solid #E60012;" alt="Futaba Sakura - Persona 5" />
-</div>
-<br/>
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
-| **Systems & Networks** | ![Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) |
-| **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <table border="0" width="100%">
+        <tr>
+          <td valign="middle"><b>Web Development</b></td>
+          <td valign="middle">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+          </td>
+        </tr>
+        <tr>
+          <td valign="middle"><b>Systems & Networks</b></td>
+          <td valign="middle">
+            <img src="https://img.shields.io/badge/GNU%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br/>
+            <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+            <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /><br/>
+            <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+          </td>
+        </tr>
+        <tr>
+          <td valign="middle"><b>Tools & Environment</b></td>
+          <td valign="middle">
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br/>
+            <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+            <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/futaba_sakura_p5s_op_img.jpg" width="100%" style="border-radius: 12px; border: 2px solid #E60012;" alt="Futaba Sakura - Persona 5" />
+    </td>
+  </tr>
+</table>
 
 ---
 
