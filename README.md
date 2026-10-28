@@ -1,4 +1,4 @@
-﻿<!-- ========================================== -->
+<!-- ========================================== -->
 <!-- 🚀 DYNAMIC HEADER & TYPING ANIMATION       -->
 <!-- ========================================== -->
 <div align="center">
@@ -109,10 +109,10 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TiFoNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E60012&icon_color=00FF66&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiFoNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E60012&icon_color=00FF66&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E60012&text_color=FFFFFF" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E60012&text_color=FFFFFF" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
