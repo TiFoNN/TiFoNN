@@ -3,45 +3,55 @@
 <!-- ========================================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hey!%20I'm%20Tifon&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E60012,50:000000,100:E60012&height=200&section=header&text=I'm%20Tifon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <p align="center">
     <img src="./assets/triforce.svg" width="48" height="42" alt="The Legend of Zelda Triforce" />
   </p>
 
   <a href="https://github.com/TiFoNN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=500&lines=DAM+Student;Software+Developer;Web+%26+Multiplatform+Apps;Building+clean+%26+creative+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E60012&background=00000000&center=true&vCenter=true&width=500&lines=DAM+Student;Software+Developer;Web+%26+Multiplatform+Apps;Building+clean+%26+creative+code" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-10B981?style=for-the-badge&labelColor=0d1117" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Spain-7928CA?style=for-the-badge&labelColor=0d1117" alt="Location" />
-    <img src="https://img.shields.io/badge/Focus-DAM%20%26%20Software%20Dev-FF0080?style=for-the-badge&labelColor=0d1117" alt="Focus" />
-  </p>
 
 </div>
 
 ---
 
 <!-- ========================================== -->
-<!-- 🌐 LANGUAGES                               -->
+<!-- 🧩 STATUS & LANGUAGES TABLE                -->
 <!-- ========================================== -->
-### Languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spanish-Native-10B981?style=for-the-badge&labelColor=0d1117" alt="Spanish - Native" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/English-Advanced-7928CA?style=for-the-badge&labelColor=0d1117" alt="English - Advanced" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Italian-Beginner%20(Still%20Learning)-FF0080?style=for-the-badge&labelColor=0d1117" alt="Italian - Beginner (Still Learning)" />
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Status</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00FF66?style=for-the-badge&labelColor=000000" alt="Status" /><br/><br/>
+        <img src="https://img.shields.io/badge/Location-Spain-E60012?style=for-the-badge&labelColor=000000" alt="Location" /><br/><br/>
+        <img src="https://img.shields.io/badge/Focus-DAM%20%26%20Software%20Dev-8B00FF?style=for-the-badge&labelColor=000000" alt="Focus" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Languages</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spanish-Native-00FF66?style=for-the-badge&labelColor=000000" alt="Spanish - Native" /><br/><br/>
+        <img src="https://img.shields.io/badge/English-Advanced-8B00FF?style=for-the-badge&labelColor=000000" alt="English - Advanced" /><br/><br/>
+        <img src="https://img.shields.io/badge/Italian-Beginner%20(Still%20Learning)-E60012?style=for-the-badge&labelColor=000000" alt="Italian - Beginner (Still Learning)" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- ========================================== -->
 <!-- 🛠️ TECH STACK & SKILLS                     -->
 <!-- ========================================== -->
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
+
+<div align="center">
+  <img src="./assets/futaba_sakura_p5s_op_img.jpg" width="460" style="border-radius: 12px; border: 2px solid #E60012;" alt="Futaba Sakura - Persona 5" />
+</div>
+<br/>
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -54,21 +64,21 @@
 <!-- ========================================== -->
 <!-- 📊 GITHUB STATS & ACTIVITY                 -->
 <!-- ========================================== -->
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TiFoNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=7928CA&text_color=cdd6f4" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TiFoNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E60012&icon_color=00FF66&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=cdd6f4" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiFoNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E60012&text_color=FFFFFF" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF&v=2" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=TiFoNN&theme=tokyonight&hide_border=true&background=000000&ring=E60012&fire=E60012&currStreakLabel=00FF66&v=3" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -94,10 +104,11 @@
 
   ### On Repeat / Favorite Track
 
+  <!-- SONG_START -->
   <table border="0">
     <tr>
       <td align="center" width="180" valign="middle">
-        <img src="./assets/mcr_black_parade_logo.jpg" width="170" height="170" style="border-radius: 14px;" alt="My Chemical Romance - The Black Parade" />
+        <img src="./assets/mcr_black_parade_logo.jpg" width="170" height="170" style="border-radius: 14px; border: 2px solid #E60012;" alt="My Chemical Romance - The Black Parade" />
       </td>
       <td valign="middle" align="left">
         <h2>Welcome to the Black Parade</h2>
@@ -117,6 +128,7 @@
       </td>
     </tr>
   </table>
+  <!-- SONG_END -->
 
 </div>
 
@@ -128,16 +140,16 @@
 <div align="center">
 
   <a href="https://github.com/TiFoNN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@tifooonnn?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-E60012?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 
   <br/><br/>
 
   <!-- WAVE FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E60012,50:000000,100:E60012&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
