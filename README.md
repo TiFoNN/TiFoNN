@@ -1,4 +1,4 @@
-<!-- ========================================== -->
+﻿<!-- ========================================== -->
 <!-- 🚀 DYNAMIC HEADER & TYPING ANIMATION       -->
 <!-- ========================================== -->
 <div align="center">
@@ -22,25 +22,25 @@
 <!-- ========================================== -->
 <table border="0" width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="left" valign="top">
       <h3>Status</h3>
-      <p align="center">
+      <p align="left">
         <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00FF66?style=for-the-badge&labelColor=000000" alt="Status" /><br/><br/>
         <img src="https://img.shields.io/badge/Location-Spain-E60012?style=for-the-badge&labelColor=000000" alt="Location" /><br/><br/>
         <img src="https://img.shields.io/badge/Focus-DAM%20%26%20Software%20Dev-8B00FF?style=for-the-badge&labelColor=000000" alt="Focus" />
       </p>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="left" valign="top">
       <h3>Languages</h3>
-      <p align="center">
+      <p align="left">
         <img src="https://img.shields.io/badge/Spanish-Native-00FF66?style=for-the-badge&labelColor=000000" alt="Spanish - Native" /><br/><br/>
-        <img src="https://img.shields.io/badge/English-Advanced-8B00FF?style=for-the-badge&labelColor=000000" alt="English - Advanced" /><br/><br/>
-        <img src="https://img.shields.io/badge/Italian-Beginner%20(Still%20Learning)-E60012?style=for-the-badge&labelColor=000000" alt="Italian - Beginner (Still Learning)" />
+        <img src="https://img.shields.io/badge/English-Advanced-E60012?style=for-the-badge&labelColor=000000" alt="English - Advanced" /><br/><br/>
+        <img src="https://img.shields.io/badge/Italian-Beginner%20(Still%20Learning)-8B00FF?style=for-the-badge&labelColor=000000" alt="Italian - Beginner (Still Learning)" />
       </p>
     </td>
-    <td width="34%" align="center" valign="top">
+    <td width="34%" align="left" valign="top">
       <h3>Interests</h3>
-      <p align="center">
+      <p align="left">
         <img src="https://img.shields.io/badge/Setup-Linux%20%26%20Windows-00FF66?style=for-the-badge&labelColor=000000" alt="Setup: Linux & Windows" /><br/><br/>
         <a href="https://backloggd.com/u/Tifon/games/" target="_blank">
           <img src="https://img.shields.io/badge/Gaming-Multiple%20Genres-E60012?style=for-the-badge&labelColor=000000" alt="Gaming: Multiple Genres" />
