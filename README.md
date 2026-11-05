@@ -127,7 +127,7 @@
 <!-- 🎮 CHIAKI NANAMI                           -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="./assets/chiaki_happy_gif.webp" alt="Chiaki Nanami" />
+  <img src="./assets/chiaki_happy_gif.gif" alt="Chiaki Nanami" />
 </div>
 
 ---
