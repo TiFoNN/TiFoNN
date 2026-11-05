@@ -124,14 +124,10 @@
 </div>
 
 <!-- ========================================== -->
-<!-- 🐍 CONTRIBUTION SNAKE ANIMATION           -->
+<!-- 🎮 CHIAKI NANAMI                           -->
 <!-- ========================================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiFoNN/TiFoNN/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiFoNN/TiFoNN/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/TiFoNN/TiFoNN/output/github-snake.svg" width="100%">
-  </picture>
+  <img src="./assets/chiaki_happy_gif.webp" alt="Chiaki Nanami" />
 </div>
 
 ---
