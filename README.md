@@ -143,21 +143,21 @@
   <table border="0">
     <tr>
       <td align="center" width="180" valign="middle">
-        <img src="./assets/i_brought_you_my_bullets_album_cover_img.jpg" width="170" height="170" style="border-radius: 14px; border: 2px solid #E60012;" alt="My Chemical Romance - I brought you my bullets, you brought me your love" />
+        <img src="./assets/three_cheers_for_sweet_revenge_album_cover_img.jpg" width="170" height="170" style="border-radius: 14px; border: 2px solid #E60012;" alt="My Chemical Romance - Three cheers for sweet revenge" />
       </td>
       <td valign="middle" align="left">
-        <h2>Cubicles</h2>
+        <h2>You know what they do to guys like us in prison</h2>
         <p>
           <b>Artist / Band:</b> My Chemical Romance <br/>
-          <b>Album:</b> I brought you my bullets, you brought me your love
+          <b>Album:</b> Three cheers for sweet revenge
         </p>
         <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/equalizer.gif" width="35" height="18" alt="Equalizer" />
         &nbsp;&nbsp;
-        <a href="https://open.spotify.com/search/Cubicles%20My%20Chemical%20Romance" target="_blank">
+        <a href="https://open.spotify.com/search/You%20know%20what%20they%20do%20to%20guys%20like%20us%20in%20prison%20My%20Chemical%20Romance" target="_blank">
           <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="26" alt="Spotify" />
         </a>
         &nbsp;
-        <a href="https://music.youtube.com/search?q=Cubicles%20My%20Chemical%20Romance" target="_blank">
+        <a href="https://music.youtube.com/search?q=You%20know%20what%20they%20do%20to%20guys%20like%20us%20in%20prison%20My%20Chemical%20Romance" target="_blank">
           <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" height="26" alt="YouTube Music" />
         </a>
       </td>
